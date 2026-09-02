@@ -2,8 +2,9 @@
 using namespace std;
 int main(){
 int num=15;
-int num2=20;
-cout<<"hello world";
+ num=20;
+cout<<"hello world"<<"\n";
+cout<<"the number is=:"<<num<<endl;
 
 
 
