@@ -7,11 +7,15 @@ int main(){
  float n=12.66;
  double d=1231.43535;
  bool b=true;
+ char c='*';
 cout<<"hello world"<<"\n";
 cout<<"the number is=:"<<num<<endl;
 cout<<"the 2nd is number is=:"<<num2<<endl;
-
-
+cout<<"long=:"<<d<<endl;
+cout<<"long=:"<<b<<endl;
+cout<<"long=:"<<c<<endl;
+cout<<"long=:"<<l<<endl;
+cout<<sizeof(d);
 
     return 0;
 }
