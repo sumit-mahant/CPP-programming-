@@ -17,5 +17,10 @@ cout<<"long=:"<<c<<endl;
 cout<<"long=:"<<l<<endl;
 cout<<sizeof(d);
 
+
+
+
+
+
     return 0;
 }
