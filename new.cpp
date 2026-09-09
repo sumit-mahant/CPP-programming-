@@ -21,6 +21,14 @@ cout<<--x<<"\n";
 // cout<<x*y<<"\n";
 // cout<<x/y<<"\n";
 // cout<<x%y<<"\n";
+cout<<((20>30)&&(40>20))<<"\n";
+cout<<((20<30)||(40<20))<<"\n";
+cout<<((20<30)&&(40>20))<<"\n";
+int val;
+
+cout<<"enter a number=:";
+cin>>val;
+cout<<val<<endl;
 
 
     return 0;
