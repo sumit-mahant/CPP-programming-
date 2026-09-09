@@ -31,6 +31,7 @@ int main(){
 // cout<<val<<endl;
 int a,b;
 cout<<"Enter two numbers-:";
+cin>>
 
     return 0;
 }
