@@ -7,16 +7,20 @@ int main(){
 float a;
 //  cout<<a<<endl;// it give us garvage value !!
 //  int d=(int)a;
-int x=26,y=5;
+int x=1;
 // double ans=(double)x/y;//type casting !!
 // cout<<ans<<endl;
 // char ch='a';
  
 // cout<<ch+1<<endl;
-
-
-
-
+cout<<x<<"\n";
+cout<<x<<"\n";
+cout<<x<<"\n";
+cout<<--x<<"\n";
+// cout<<x-y<<"\n";
+// cout<<x*y<<"\n";
+// cout<<x/y<<"\n";
+// cout<<x%y<<"\n";
 
 
     return 0;
