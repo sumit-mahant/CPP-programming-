@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+#include <string>
 int main(){
  //typecasting!!⭐
   
@@ -29,13 +30,21 @@ int main(){
 // cout<<"enter a number=:";
 // cin>>val;
 // cout<<val<<endl;
-int a,b;
-cout<<"Enter two numbers-:";
-cin>>a>>b;
+// int a,b;
+// cout<<"Enter two numbers-:";
+// cin>>a>>b;
 
 
-
-cout<<a-b;
+// cout<<a-b;
+string name;
+int age;
+// getline(cin,name);
+cout<<"Enter your name-:";
+ getline(cin,name);//from this you can use space //for long string 
+cin>>name;//you can not use space 
+cout<<"Enter your age-:";
+// cin>>age;
+cout<<"your name is"<<name<<"& your age is "<<age;
 
     return 0;
 }
