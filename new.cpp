@@ -66,19 +66,19 @@ int age ;
 //escape sequence 
 cout<<"my name is \'sumit'\n"<<endl;
 cout<<"my name is \t mahant"<<endl;
-double a,b,c;
+int a,b;
 
 
 
 
-cout<<"Enter three  numbers:-";
+cout<<"Enter Two numbers:-";
 // cin>>a;
 // cout<<"Enter second number:-";
 // cin>>b;cout<<"Enter third number:-";
 // cin>>c;
-cin>>a>>b>>c;
+cin>>a>>b;
 
-cout<<(a+b+c)/3;
+
 
 
 
