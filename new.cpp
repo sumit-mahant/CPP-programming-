@@ -66,7 +66,7 @@ int age ;
 //escape sequence 
 cout<<"my name is \'sumit'\n"<<endl;
 cout<<"my name is \t mahant"<<endl;
-int a,b,c;
+double a,b,c;
 
 
 
