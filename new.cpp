@@ -55,13 +55,18 @@ int main(){
 string name;
 string name1;
 int age ;
-cout<<"Enter your age:-";
-cin>>age;
-cout<<"Enter your name:-";
-cin.ignore();//this is the method for clear \n form buffur!!!!
+// cout<<"Enter your age:-";
+// cin>>age;
+// cout<<"Enter your name:-";
+// cin.ignore();//this is the method for clear \n form buffur!!!!
 // getline(cin,name1);//this is alternate to do that.
-getline(cin,name);
-cout<<"your name is"<<name<<" your age is "<<age<<endl;
+// getline(cin,name);
+// cout<<"your name is"<<name<<" your age is "<<age<<endl;
+//use always \n over endl;
+//escape sequence 
+cout<<"my name is \'sumit'\n"<<endl;
+cout<<"my name is \t mahant"<<endl;
+
 
 
 
