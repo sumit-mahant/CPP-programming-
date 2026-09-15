@@ -71,11 +71,12 @@ int a,b,c;
 
 
 
-cout<<"Enter first number:-";
-cin>>a;
-cout<<"Enter second number:-";
-cin>>b;cout<<"Enter third number:-";
-cin>>c;
+cout<<"Enter three  numbers:-";
+// cin>>a;
+// cout<<"Enter second number:-";
+// cin>>b;cout<<"Enter third number:-";
+// cin>>c;
+cin>>a>>b>>c;
 
 cout<<(a+b+c)/3;
 
