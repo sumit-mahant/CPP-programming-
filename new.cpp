@@ -52,4 +52,17 @@ int main(){
 // cout<<++n<<endl; 
 
 //     return 0;
-// }
+string name;
+int age ;
+cout<<"Enter your age:-";
+cin>>age;
+cout<<"Enter your name:-";
+getline(cin,name);
+cout<<"your name is"<<name<<" your age is "<<age<<endl;
+
+
+
+
+
+
+}
