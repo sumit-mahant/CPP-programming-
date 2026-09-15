@@ -83,7 +83,7 @@ b=tem;
 // cin>>b;cout<<"Enter third number:-";
 // cin>>c;
 // cin>>a>>b;
-cout<<"value of a-:<<"\n"<<b;
+cout<<"value of a-:"<<"\n"<<b;
 
 
 
