@@ -77,7 +77,7 @@ cout<<"Enter second number:-";
 cin>>b;cout<<"Enter third number:-";
 cin>>c;
 
-cout<<a<<endl<<b<<endl<<c;
+cout<<(a+b+c)/3;
 
 
 
