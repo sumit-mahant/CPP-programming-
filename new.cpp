@@ -36,15 +36,15 @@ int main(){
 
 
 // cout<<a-b;
-string name;
+string name1;
 int age;
 // getline(cin,name);
 cout<<"Enter your name-:";
- getline(cin,name);//from this you can use space //for long string 
+ getline(cin,name1);//from this you can use space //for long string 
 // cin>>name;//you can not use space 
 cout<<"Enter your age-:";
-cin>>age;
-cout<<"your name is "<<name<<" & your age is "<<age<<endl;
+// cin>>age;
+cout<<"your name is "<<name1<<" & your age is "<<age<<endl;
 int n = 40;
 cout<<++n<<endl; 
 
