@@ -100,7 +100,14 @@ int main(){
 // }else{
 //     cout<<"the number is odd";
 // }
-
+int num=-12;
+if(num>0){
+    cout<<"positive. ";
+}else if (num<0){
+    cout<<"negative";
+}else{
+    cout<<("this is 0");
+}
 
 
 
