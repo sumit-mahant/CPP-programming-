@@ -130,7 +130,15 @@ int amt=10000;
 double dic=0,totalAmt=0;
 if(amt>=0&&amt<=5000)
   dic=0;
-else if(amt>5000 && amt )
+else if(amt>5000 && amt<=7000 )
+dic=0.05;
+else if(amt>7000 && amt<=9000)
+ dic=0.1;
+else{
+    dic=0.2;
+}
+totalAmt=amt-(amt*dic);
+cout<<"Bill="<<totalAmt;
 
 
 
