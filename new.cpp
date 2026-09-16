@@ -126,6 +126,7 @@ if(year%100==0){
 }else{
     cout<<"this is not a leap year ";
 }
+int ammount=10000;
 
 
 
