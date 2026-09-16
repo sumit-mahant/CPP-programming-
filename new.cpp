@@ -84,7 +84,7 @@ int main(){
 // cin>>c;
 // cin>>a>>b;
 // cout<<"value of a-:"<<a<<"\n"<<b;
-int age;
+// int age;
 // cout<<"Enter your age ";
 // cin>>age;
 // if(age>=18){
