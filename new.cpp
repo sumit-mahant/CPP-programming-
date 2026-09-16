@@ -92,14 +92,15 @@ int age;
 // }else{
 //     cout<<"you can not vote";
 // }
-int num;
-cout<<"Enter the number";
-cin>>num;
-if(num%2==0){
-    cout<<"the number is Even";
-}else{
-    cout<<"the number is odd";
-}
+// int num;
+// cout<<"Enter the number";
+// cin>>num;
+// if(num%2==0){
+//     cout<<"the number is Even";
+// }else{
+//     cout<<"the number is odd";
+// }
+
 
 
 
