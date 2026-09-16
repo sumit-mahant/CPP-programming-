@@ -123,6 +123,8 @@ if(year%100==0){
     }
 }else if(year%4==0){
     cout<<"this is a leap year";
+}else{
+    cout<<"this is not a leap year ";
 }
 
 
