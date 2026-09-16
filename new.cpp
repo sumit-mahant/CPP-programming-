@@ -126,7 +126,11 @@ if(year%100==0){
 }else{
     cout<<"this is not a leap year ";
 }
-int ammount=10000;
+int amt=10000;
+double dic=0,totalAmt=0;
+if(amt>=0&&amt<=5000)
+  dic=0;
+else if(amt>5000 && amt )
 
 
 
