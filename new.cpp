@@ -114,7 +114,7 @@ int main(){
 //     cout<<"no";
 // }
 //logic of leap year!!!!
-int year=2000;
+int year=1900;
 if(year%100==0){
     if(year%400==0){
         cout<<"this is the leap year";
