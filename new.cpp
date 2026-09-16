@@ -52,9 +52,9 @@ int main(){
 // cout<<++n<<endl; 
 
 //     return 0;
-string name;
-string name1;
-int age ;
+// string name;
+// string name1;
+// int age ;
 // cout<<"Enter your age:-";
 // cin>>age;
 // cout<<"Enter your name:-";
@@ -64,14 +64,14 @@ int age ;
 // cout<<"your name is"<<name<<" your age is "<<age<<endl;
 //use always \n over endl;
 //escape sequence 
-cout<<"my name is \'sumit'\n"<<endl;
-cout<<"my name is \t mahant"<<endl;
-int a=10;
-int b=20;
-int tem;
-tem=a;
- a=b;
-b=tem;
+// cout<<"my name is \'sumit'\n"<<endl;
+// cout<<"my name is \t mahant"<<endl;
+// int a=10;
+// int b=20;
+// int tem;
+// tem=a;
+//  a=b;
+// b=tem;
 
 
 
@@ -83,10 +83,23 @@ b=tem;
 // cin>>b;cout<<"Enter third number:-";
 // cin>>c;
 // cin>>a>>b;
-cout<<"value of a-:"<<a<<"\n"<<b;
-
-
-
+// cout<<"value of a-:"<<a<<"\n"<<b;
+int age;
+// cout<<"Enter your age ";
+// cin>>age;
+// if(age>=18){
+//     cout<<"you can vote";
+// }else{
+//     cout<<"you can not vote";
+// }
+int num;
+cout<<"Enter the number";
+cin>>num;
+if(num%2==0){
+    cout<<"the number is Even";
+}else{
+    cout<<"the number is odd";
+}
 
 
 
