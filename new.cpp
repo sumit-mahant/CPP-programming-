@@ -158,13 +158,13 @@ int main(){
 // default:
 //     break;
 // }
-char ch;
-cout<<"enter a character";
-cin>>ch;
-if(ch =='a'||ch=='u'|| ch =='i'||ch=='o'||ch=='e')
-  cout<<"the char is vowal";
-else
- cout<<"the char is consonent";
+// char ch;
+// cout<<"enter a character";
+// cin>>ch;
+// if(ch =='a'||ch=='u'|| ch =='i'||ch=='o'||ch=='e')
+//   cout<<"the char is vowal";
+// else
+//  cout<<"the char is consonent";
 //now same  question by Switch case!!
 
 
