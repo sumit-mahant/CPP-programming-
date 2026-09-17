@@ -181,8 +181,11 @@ int main(){
 //     case 'u':
 //     cout<<"the char is vowal";
 //     default: cout<<"the char is consonent";
-// }   
+// } 
+int age=14;
 
+
+(age>=18)? cout<<"you can vote":cout<<"you can not vote";
 
 
 
