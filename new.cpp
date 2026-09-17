@@ -114,31 +114,31 @@ int main(){
 //     cout<<"no";
 // }
 //logic of leap year!!!!
-int year=1900;
-if(year%100==0){
-    if(year%400==0){
-        cout<<"this is the leap year";
-    }else{
-        cout<<"this is not a leap year ";
-    }
-}else if(year%4==0){
-    cout<<"this is a leap year";
-}else{
-    cout<<"this is not a leap year ";
-}
-int amt=10000;
-double dic=0,totalAmt=0;
-if(amt>=0&&amt<=5000)
-  dic=0;
-else if(amt>5000 && amt<=7000 )
-dic=0.05;
-else if(amt>7000 && amt<=9000)
- dic=0.1;
-else{
-    dic=0.2;
-}
-totalAmt=amt-(amt*dic);
-cout<<"Bill="<<totalAmt;
+// int year=1900;
+// if(year%100==0){
+//     if(year%400==0){
+//         cout<<"this is the leap year";
+//     }else{
+//         cout<<"this is not a leap year ";
+//     }
+// }else if(year%4==0){
+//     cout<<"this is a leap year";
+// }else{
+//     cout<<"this is not a leap year ";
+// }
+// int amt=10000;
+// double dic=0,totalAmt=0;
+// if(amt>=0&&amt<=5000)
+//   dic=0;
+// else if(amt>5000 && amt<=7000 )
+// dic=0.05;
+// else if(amt>7000 && amt<=9000)
+//  dic=0.1;
+// else{
+//     dic=0.2;
+// }
+// totalAmt=amt-(amt*dic);
+// cout<<"Bill="<<totalAmt;
 
 
 
