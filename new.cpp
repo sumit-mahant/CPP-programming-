@@ -166,6 +166,27 @@ int main(){
 // else
 //  cout<<"the char is consonent";
 //now same  question by Switch case!!
+char ch='a';
+switch (ch){
 
+    case 'a':
+    cout<<"the char is vowal";
+
+    case 'i':
+    cout<<"the char is vowal";
+    case 'e':
+    cout<<"the char is vowal";
+    case 'o':
+    cout<<"the char is vowal";
+    case 'u':
+    cout<<"the char is vowal";
+    
+
+
+
+
+
+
+}
 
 }
