@@ -204,19 +204,19 @@ int main(){
 // }
 // cout<<"the factorial is-:"<<fact;
 // factor of a number;
-int n=4;int c=0;
-for(int i=1;i<=20;i++){
-    if(n%i==0){
-        // cout<<i<<endl;
-        c++;
+// int n=4;int c=0;
+// for(int i=1;i<=20;i++){
+//     if(n%i==0){
+//         // cout<<i<<endl;
+//         c++;
 
-    }
-}
-if(c==2){
-    cout<<"prime";
-}else{
-    cout<<"not prime";
-}
+//     }
+// }
+// if(c==2){
+//     cout<<"prime";
+// }else{
+//     cout<<"not prime";
+// }
    
 
 
