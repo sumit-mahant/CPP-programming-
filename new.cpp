@@ -191,7 +191,8 @@ for(int i=10;i>=1;i--){
 }
 int n=10,sum=0;
 for(int i=1;i<=n;i++){
-    sum=sum+i;
+    // sum=sum+i;
+    sum+=i;
 }
 cout<<"the sum is"<<sum;
 
