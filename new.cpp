@@ -186,10 +186,14 @@ int main(){
 
 
 // (age>=18)? cout<<"you can vote":cout<<"you can not vote";
-for(int i=1;i<=5;i++){
-    cout<<"new theme\n";
+for(int i=10;i>=1;i--){
+    cout<<i<<"\n";
 }
-
+int n=10,sum=0;
+for(int i=1;i<=n;i++){
+    sum=sum+i;
+}
+cout<<"the sum is"<<sum;
 
 
 
