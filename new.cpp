@@ -217,6 +217,12 @@ int main(){
 // }else{
 //     cout<<"not prime";
 // }while loop !!!!
+int n=4,i=1;
+while (i<=n)
+{
+    cout<<i<<endl;
+    i++;
+}
 
    
 
