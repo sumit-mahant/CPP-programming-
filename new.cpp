@@ -186,9 +186,9 @@ int main(){
 
 
 // (age>=18)? cout<<"you can vote":cout<<"you can not vote";
-for(int i=10;i>=1;i--){
-    cout<<i<<"\n";
-}
+// for(int i=10;i>=1;i--){
+//     cout<<i<<"\n";
+// }
 //sum of n number;
 // int n=10,sum=0;
 // for(int i=1;i<=n;i++){
@@ -197,13 +197,17 @@ for(int i=10;i>=1;i--){
 // }
 // cout<<"the sum is"<<sum;
 // logic of factorial number !!!!
-int n=4,fact=1;
-for(int i=1;i<=n;i++){
-    // sum=sum+i;
-    fact*=i;
+// int n=4,fact=1;
+// for(int i=1;i<=n;i++){
+//     // sum=sum+i;
+//     fact*=i;
+// }
+// cout<<"the factorial is-:"<<fact;
+// factor of a number;
+int n=20;
+for(int i=1;i<=20;i++){
+    
 }
-cout<<"the factorial is-:"<<fact;
-
 
 
 
