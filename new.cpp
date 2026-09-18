@@ -182,11 +182,13 @@ int main(){
 //     cout<<"the char is vowal";
 //     default: cout<<"the char is consonent";
 // } 
-int age=14;
+// int age=14;
 
 
-(age>=18)? cout<<"you can vote":cout<<"you can not vote";
-
+// (age>=18)? cout<<"you can vote":cout<<"you can not vote";
+for(int i=1;i<=5;i++){
+    cout<<"new theme\n";
+}
 
 
 
