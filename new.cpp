@@ -216,7 +216,8 @@ int main(){
 //     cout<<"prime";
 // }else{
 //     cout<<"not prime";
-// }
+// }while loop !!!!
+
    
 
 
