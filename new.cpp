@@ -189,13 +189,20 @@ int main(){
 for(int i=10;i>=1;i--){
     cout<<i<<"\n";
 }
-int n=10,sum=0;
+//sum of n number;
+// int n=10,sum=0;
+// for(int i=1;i<=n;i++){
+//     // sum=sum+i;
+//     sum+=i;
+// }
+// cout<<"the sum is"<<sum;
+// logic of factorial number !!!!
+int n=4,fact=1;
 for(int i=1;i<=n;i++){
     // sum=sum+i;
-    sum+=i;
+    fact*=i;
 }
-cout<<"the sum is"<<sum;
-
+cout<<"the factorial is-:"<<fact;
 
 
 
