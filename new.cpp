@@ -235,10 +235,11 @@ int main(){
 //     cout<<"hello world\n";// this loop give us atleast one value becoz it runs first then check condition⭐⭐⭐⭐⭐⭐!
 // }while(i<=5);
 
-int i=10;
-do{
-    cout<<i<<endl;
-    i++;
-}while(i<5);
+// int i=10;
+// do{
+//     cout<<i<<endl;
+//     i++;
+// }while(i<5);
 
-}
+// }
+//NESTED LOOP!!!!!!
