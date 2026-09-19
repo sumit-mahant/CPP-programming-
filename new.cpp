@@ -230,7 +230,11 @@ int main(){
 //     n/=10;
 // }
 // cout<<"sum of the degits="<<sum;
-
+int i=1;
+do{
+    cout<<"hello world\n";
+    i++;
+}while(i<=5);
 
 
 
