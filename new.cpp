@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <string>
-int main(){
+// int main(){
  //typecasting!!⭐
   
 //  int d=a;
@@ -243,10 +243,10 @@ int main(){
 
 // }
 //NESTED LOOP!!!!!!
-int n=5;
-for(int i=1;i<=5;i++){
-for(int j=1;j<=i;j++){
-    cout<<"* ";
-}cout<<"\n";
-}
-}
+// int n=5;
+// for(int i=1;i<=5;i++){
+// for(int j=5;j>=i;j--){
+//     cout<<"* ";
+// }cout<<"\n";
+// }
+// }
