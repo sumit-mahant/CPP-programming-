@@ -255,6 +255,6 @@ void printHello(){
 }
 int main(){
     cout<<"what happend\n";
-    
+    printHello();
 
 }
