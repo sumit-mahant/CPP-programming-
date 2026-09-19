@@ -230,12 +230,15 @@ int main(){
 //     n/=10;
 // }
 // cout<<"sum of the degits="<<sum;
-int i=1;
+// int i=1;
+// do{
+//     cout<<"hello world\n";// this loop give us atleast one value becoz it runs first then check condition⭐⭐⭐⭐⭐⭐!
+// }while(i<=5);
+
+int i=10;
 do{
-    cout<<"hello world\n";
+    cout<<i<<endl;
     i++;
-}while(i<=5);
-
-
+}while(i<5);
 
 }
