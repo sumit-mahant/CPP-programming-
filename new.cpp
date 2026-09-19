@@ -223,14 +223,14 @@ int main(){
 //     cout<<i<<endl;
 //     i++;
 // }
-int n=125;int sum=0;
-while(n>0){
-    int lastd=n%10;
-    sum+=lastd;
-    n/=10;
-}
-cout<<"sum of the degits="<<sum;
-   
+// int n=125;int sum=0;
+// while(n>0){
+//     int lastd=n%10;
+//     sum+=lastd;
+//     n/=10;
+// }
+// cout<<"sum of the degits="<<sum;
+
 
 
 
