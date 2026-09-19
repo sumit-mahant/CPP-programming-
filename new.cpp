@@ -250,11 +250,12 @@ using namespace std;
 // }cout<<"\n";
 // }
 // }
-void printHello(){
-    cout<<"hello sumit sir \n";
-}
+void printHello();//function declearation!!
 int main(){
     cout<<"what happend\n";
-    printHello();
+    printHello();//function calling !!!!
 
+}
+void printHello(){//function Defination!!
+    cout<<"hello sumit sir \n";
 }
