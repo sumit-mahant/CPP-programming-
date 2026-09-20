@@ -274,6 +274,9 @@ cout<<"enter a"<<n<<"number of eliment of array-:";
 for(int i=0;i<=n;i++){
     cin>>arr[i];
 }
+for(int i=0;i<=3;i++){
+    cout<<arr[i]<<"\t"  ;
+}
 
 
 
