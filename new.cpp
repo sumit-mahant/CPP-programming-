@@ -250,18 +250,18 @@ using namespace std;
 // }cout<<"\n";
 // }
 // }
-void printHello();//function declearation!!
-int sum(int a,int b);// parameter!!!
+// void printHello();//function declearation!!
+// int sum(int a,int b);// parameter!!!
 int main(){
-    cout<<"what happend\n";
-    printHello();//function calling !!!!
-   int totel= sum(5,10);//arguments!!!
-   cout<<totel<<endl;
+//     cout<<"what happend\n";
+//     printHello();//function calling !!!!
+//    int totel= sum(5,10);//arguments!!!
+//    cout<<totel<<endl;
 
 }
-void printHello(){//function Defination!!
-    cout<<"hello sumit sir \n";
-}
-int sum(int a,int b){
-    return a+b;
-}
+// void printHello(){//function Defination!!
+//     cout<<"hello sumit sir \n";
+// }
+// int sum(int a,int b){
+//     return a+b;
+// }
