@@ -251,6 +251,7 @@ using namespace std;
 // }
 // }
 void printHello();//function declearation!!
+
 int main(){
     cout<<"what happend\n";
     printHello();//function calling !!!!
