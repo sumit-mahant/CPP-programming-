@@ -267,7 +267,12 @@ int main(){
 //     cout<<arr[i]<<endl;
 //  }
 int n;
-cout<<"enter the lengh of Array"
+cout<<"enter the lengh of Array";
+cin>>n;
+int arr[n];
+for(int i=0;i<=n;i++){
+    
+}
 
 
 
