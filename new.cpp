@@ -270,7 +270,7 @@ int n;
 cout<<"enter the length of the Array";
 cin>>n;
 int arr[n];
-cout<<"enter a"<<
+cout<<"enter a"<<n<<"number of eliment of array-:";
 for(int i=0;i<=n;i++){
     cin>>arr[i];
 }
