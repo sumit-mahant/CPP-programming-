@@ -266,7 +266,8 @@ int main(){
 //  for(int i=0;i<=4;i++){ 
 //     cout<<arr[i]<<endl;
 //  }
-
+int n;
+cout<<"enter the lengh of Array"
 
 
 
