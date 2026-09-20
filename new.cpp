@@ -262,7 +262,8 @@ int arr[5];
  arr[1]=20;
  arr[2]=30;
  arr[3]=40;
- for(int i=0;i<=5;i++){ 
+ arr[4]=50;
+ for(int i=0;i<=4;i++){ 
     cout<<arr[i]<<endl;
  }
 
