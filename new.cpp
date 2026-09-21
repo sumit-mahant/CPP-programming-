@@ -302,7 +302,7 @@ for(int i=0;i<6;i++){
     }else{
         count2++;
     }
-}cout<<"number of even number=;"<<count1<<"number of odd number="<<count2;
+}cout<<"number of even number=;"<<count1<<"\nnumber of odd number="<<count2;
 
 
 
