@@ -266,17 +266,17 @@ int main(){
 //  for(int i=0;i<=4;i++){ 
 //     cout<<arr[i]<<endl;
 //  }
-int n;
-cout<<"enter the length of the Array";
-cin>>n;
-int arr[n];
-cout<<"enter a"<<n<<"number of eliment of array-:";
-for(int i=0;i<=n;i++){
-    cin>>arr[i];
-}
-for(int i=0;i<=3;i++){
-    cout<<arr[i]<<"\t"  ;
-}
+// int n;
+// cout<<"enter the length of the Array";
+// cin>>n;
+// int arr[n];
+// cout<<"enter a"<<n<<"number of eliment of array-:";
+// for(int i=0;i<=n;i++){
+//     cin>>arr[i];
+// }
+// for(int i=0;i<=3;i++){
+//     cout<<arr[i]<<"\t"  ;
+// }
 
 
 
