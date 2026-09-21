@@ -294,15 +294,15 @@ int main(){
 //   } 
 //  }cout<<"maximum in the array="<<max;
 
-int arr[6]={11,42,93,34,55,76};
-int count1,count2;
-for(int i=0;i<5;i++){
-    if(arr[i]/2==0){
-        count1+=1;
+int arr[6]={11,41,93,33,55,76};
+int count1=0,count2=0;
+for(int i=0;i<6;i++){
+    if(arr[i]%2==0){
+        count1++;
     }else{
-        count2+=1;
+        count2++;
     }
-}cout
+}cout<<"number of even number=;"<<count1<<"number of odd number="<<count2;
 
 
 
