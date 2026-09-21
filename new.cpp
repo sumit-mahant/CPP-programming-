@@ -289,8 +289,11 @@ int arr[]={11,42,93,34,55,76};//sum of the array
  size=sizeof(arr)/sizeof(arr[0]);// size of an array👌👌👌👌
  cout<<size<<endl;
  for(int i=0;i<size;i++){
-     
- }cout<<"sum of the array="<<sum;
+  if(arr[i]>max){
+    
+  }
+   
+ }cout<<"maximum in the array="<<max;
 
 
 
