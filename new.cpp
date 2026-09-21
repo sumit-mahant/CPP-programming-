@@ -291,8 +291,7 @@ int arr[]={11,42,93,34,55,76};//max in an array
 //  for(int i=0;i<size;i++){
 //   if(arr[i]>max){
 //     max=arr[i];
-//   }
-   
+//   } 
 //  }cout<<"maximum in the array="<<max;
 
 
