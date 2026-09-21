@@ -279,7 +279,7 @@ int main(){
 // }
 int arr[]={1,2,3,4,5,6};
 int size=0;
-size=sizeof(arr)/sizeof(arr[0]);
+size=sizeof(arr)/sizeof(arr[0]);// size of an array👌👌👌👌
 cout<<size;
 
 
