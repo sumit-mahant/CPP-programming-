@@ -277,13 +277,20 @@ int main(){
 // for(int i=0;i<=3;i++){
 //     cout<<arr[i]<<"\t"  ;
 // }
-int arr[]={1,2,3,4,5,6};//sum of the array
-int size=0;int sum=0;
-size=sizeof(arr)/sizeof(arr[0]);// size of an array👌👌👌👌
-cout<<size<<endl;
-for(int i=0;i<size;i++){
-    sum=sum+arr[i];
-}cout<<"sum of the array="<<sum;
+// int arr[]={1,2,3,4,5,6};//sum of the array
+// int size=0;int sum=0;
+// size=sizeof(arr)/sizeof(arr[0]);// size of an array👌👌👌👌
+// cout<<size<<endl;
+// for(int i=0;i<size;i++){
+//     sum=sum+arr[i];
+// }cout<<"sum of the array="<<sum;
+int arr[]={11,42,93,34,55,76};//sum of the array
+ int size=0;int =0;
+ size=sizeof(arr)/sizeof(arr[0]);// size of an array👌👌👌👌
+ cout<<size<<endl;
+ for(int i=0;i<size;i++){
+     sum=sum+arr[i];
+ }cout<<"sum of the array="<<sum;
 
 
 
