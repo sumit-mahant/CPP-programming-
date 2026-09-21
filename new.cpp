@@ -284,7 +284,7 @@ int main(){
 // for(int i=0;i<size;i++){
 //     sum=sum+arr[i];
 // }cout<<"sum of the array="<<sum;
-int arr[]={11,42,93,34,55,76};//max in an array 
+// int arr[]={11,42,93,34,55,76};//max in an array 
 //  int size=0;int max=arr[0];
 //  size=sizeof(arr)/sizeof(arr[0]);//max in array👌👌👌👌
 //  cout<<size<<endl;
@@ -294,7 +294,7 @@ int arr[]={11,42,93,34,55,76};//max in an array
 //   } 
 //  }cout<<"maximum in the array="<<max;
 
-
+int arr[]={11,42,93,34,55,76};
 
 
 
