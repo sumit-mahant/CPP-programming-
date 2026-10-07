@@ -316,15 +316,21 @@ using namespace std;
 // int sum(int a,int b){
 //     return a+b;
 // }
-class form{
-    public:
-    string name;
-    int age;
+// class form{
+//     public:
+//     string name;
+//     int age;
 
-};
- int main(){
-    form obj1;
-    obj1.name="sumit";
-    obj1.age =20;
-    cout<<obj1.name<<endl;
-}
+// };
+//  int main(){
+//     form obj1;
+//     obj1.name="sumit";
+//     obj1.age =20;
+//     cout<<obj1.name<<endl;
+// }
+
+
+
+
+
+
