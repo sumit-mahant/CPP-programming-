@@ -330,7 +330,10 @@ using namespace std;
 // }
 
 int main(){
-cout<<"again hello world\n";
+    int a;
+cout<<"enter the number-:";
+cin>>a;
+cout<<a+10;
 
 
 }
