@@ -343,7 +343,7 @@ cout<<"Enter your name-:";
 getline(cin, name);
 cout<<"enter your age";
 cin>>age;
-
+cout<<
 
 }
 
