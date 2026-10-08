@@ -335,8 +335,14 @@ int main(){
 // cin>>a;
 // cout<<a+10;
 char alpha='a';
+string name;
+int age;
 cout<<(int)alpha<<endl;
 cout<<alpha+alpha;
+cout<<"Enter your name-:";
+getline(cin, name);
+cout<<"enter your age";
+cin>>age;
 
 
 }
