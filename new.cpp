@@ -335,7 +335,8 @@ int main(){
 // cin>>a;
 // cout<<a+10;
 char alpha='a';
-cout<<(int)alpha;
+cout<<(int)alpha<<endl;
+cout<<alpha+alpha;
 
 
 }
