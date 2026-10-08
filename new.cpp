@@ -344,7 +344,10 @@ int main(){
 // cout<<"enter your age";
 // cin>>age;
 // cout<<"my name is "<<name<<"my age is "<<age<<endl;
-
+int a,b;
+cout<<"enter the two number";
+cin>>a,b;
+cout<<"a= "<<a<<"b= "<<b;
 
 }
 
