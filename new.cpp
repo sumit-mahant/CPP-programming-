@@ -349,6 +349,7 @@ cout<<"enter the two number";
 cin>>a,b;
 cout<<"a= "<<a<<"b= "<<b;
 
+
 }
 
 
