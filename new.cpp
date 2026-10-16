@@ -385,9 +385,9 @@ class ABC{
     int add(int a,int b,int c){
         return a+b+c;
     }
-    void display(){
-        cout<<(a+b+c);
-    }
+    // void display(){
+    //     cout<<(a+b+c);
+    // }
 };
 int main(){
     ABC obj;
