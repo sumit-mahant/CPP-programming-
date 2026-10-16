@@ -322,35 +322,86 @@ using namespace std;
 //     int age;
 
 // };
-//  int main(){
-//     form obj1;
-//     obj1.name="sumit";
-//     obj1.age =20;
-//     cout<<obj1.name<<endl;
+// //  int main(){
+// //     form obj1;
+// //     obj1.name="sumit";
+// //     obj1.age =20;
+// //     cout<<obj1.name<<endl;
+// // }
+
+// int main(){
+//     // int a;
+// // cout<<"enter the number-:";
+// // cin>>a;
+// // cout<<a+10;
+// // char alpha='a';
+// // string name;
+// // int age;
+// // cout<<(int)alpha<<endl;
+// // cout<<alpha+alpha;
+// // cout<<"Enter your name-:";
+// // getline(cin, name);
+// // cout<<"enter your age";
+// // cin>>age;
+// // cout<<"my name is "<<name<<"my age is "<<age<<endl;
+// // int a,b;
+// // cout<<"enter the two number";
+// // cin>>a,b;
+// // cout<<"a= "<<a<<"b= "<<b;
+// // cout<<" for loop work like this, ";
+// // char a='b';
+// // cout<<a+1;
+// // for(int i=1;i<21;i++){
+// //     cout<<i<<endl;
+// // }
+// int year=2028;
+// if(year%100==0){
+//   if(year%400==0){
+//     cout<<"this is a leap year";
+//   }
+//   else{
+//     cout<<"this is not a leap year";
+//   }
 // }
+// else{
+//     if(year%4==0){
+//         cout<<"this is a leap year";
+//     }
+//     else{
+//     cout<<"this is not a leap year";
+// }}
+class ABC{
+    public:
+    int a;
+    int b;
+    int c;
+    ABC(){
+        cout<<"default constroctor"<<endl;
 
+    }
+    int add(int a,int b){
+        return a+b;
+    }
+    int add(int a,int b,int c){
+        return a+b+c;
+    }
+    void display(){
+        cout<<(a+b+c);
+    }
+};
 int main(){
-    // int a;
-// cout<<"enter the number-:";
-// cin>>a;
-// cout<<a+10;
-// char alpha='a';
-// string name;
-// int age;
-// cout<<(int)alpha<<endl;
-// cout<<alpha+alpha;
-// cout<<"Enter your name-:";
-// getline(cin, name);
-// cout<<"enter your age";
-// cin>>age;
-// cout<<"my name is "<<name<<"my age is "<<age<<endl;
-int a,b;
-cout<<"enter the two number";
-cin>>a,b;
-cout<<"a= "<<a<<"b= "<<b;
-cout<<
-
+    ABC obj;
+    cout<<obj.add(2,3)<<endl;
+    cout<<obj.add(7,8,9);
+    
 }
+
+
+
+
+
+
+
 
 
 
