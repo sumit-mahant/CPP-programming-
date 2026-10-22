@@ -370,32 +370,50 @@ using namespace std;
 //     else{
 //     cout<<"this is not a leap year";
 // }}
-class ABC{
-    public:
-    int a;
-    int b;
-    int c;
-    ABC(){
-        cout<<"default constroctor"<<endl;
+// class ABC{
+//     public:
+//     int a;
+//     int b;
+//     int c;
+//     ABC(){
+//         cout<<"default constroctor"<<endl;
 
-    }
-    int add(int a,int b){
-        return a+b;
-    }
-    int add(int a,int b,int c){
-        return a+b+c;
-    }
-    // void display(){
-    //     cout<<(a+b+c);
-    // }
-};
-int main(){
-    ABC obj;
-    cout<<obj.add(2,3)<<endl;
-    cout<<obj.add(7,8,9);
+//     }
+//     int add(int a,int b){
+//         return a+b;
+//     }
+//     int add(int a,int b,int c){
+//         return a+b+c;
+//     }
+//     // void display(){
+//     //     cout<<(a+b+c);
+//     // }
+// };
+// int main(){
+//     ABC obj;
+//     cout<<obj.add(2,3)<<endl;
+//     cout<<obj.add(7,8,9);
     
-}
-
+// }
+class Student{
+    public:
+    //Attributes
+    int id;
+    int age;
+    string name;
+    int nos;
+    //Behaviour/method/Function!
+    void study()
+    {
+        cout<<this->name<<"studying"<<endl;
+    }
+    void sleep(){
+        cout<<this->name<<"sleeping"<<endl;
+    }
+    void bunk(){
+        cout<<this->name<<"bunking"<<endl;
+    }
+};
 
 
 
