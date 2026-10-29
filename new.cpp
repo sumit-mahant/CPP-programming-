@@ -395,32 +395,99 @@ using namespace std;
 //     cout<<obj.add(7,8,9);
     
 // }
-class Student{
+// class Student{
+//     public:
+//     //Attributes
+//     int id;
+//     int age;
+//     string name;
+//     int nos;
+//     //Behaviour/method/Function!
+//     void study()
+//     {
+//         cout<<this->name<<"studying"<<endl;
+//     }
+//     void sleep(){
+//         cout<<this->name<<"sleeping"<<endl;
+//     }
+//     void bunk(){
+//         cout<<this->name<<"bunking"<<endl;
+//     }
+// };
+// int main(){
+//     Student obj1;
+//     obj1.name="sumit mahant";
+//   cout<<obj1.name<<endl; 
+
+// }
+
+// class A{
+//     protected:
+//         int a;
+//         int b;
+//         void SetValue(){
+//         this->a=a;
+//         this->b=b;
+//         }
+// };
+// class B: public A{
+//     public:
+//     void SetData(int a, int b)
+//     {
+//         SetData(a,b)
+//     }
+//     void show(){
+//         SetData(a,b)
+//     }
+// };
+
+//     int main(){
+
+//         B b;
+//         b.SetData(12,17);
+//         b.show();
+
+//     }
+class form{
     public:
-    //Attributes
-    int id;
-    int age;
-    string name;
-    int nos;
-    //Behaviour/method/Function!
-    void study()
-    {
-        cout<<this->name<<"studying"<<endl;
-    }
-    void sleep(){
-        cout<<this->name<<"sleeping"<<endl;
-    }
-    void bunk(){
-        cout<<this->name<<"bunking"<<endl;
-    }
+
+string name;//data members || properties||attributes
+int age;
+int RollNumber;
+form(){//consturctor
+    cout<<"hello sumit\n";
+}
+void intialise(string n, int a,double b){//member function||behaviour
+    name=n;
+    age=a;
+    RollNumber=b;
+}
+void display(){
+    cout<<name<<"/ "<<age<<" /"<<RollNumber<<endl;
+}
 };
 
 
+int main (){
+form obj1;
+obj1.intialise("sumit",21,251770009);
+obj1.display();
+form obj2;
+obj2.intialise("aman",16,2322323);
+// obj1.display();
+obj2.display();
+form obj3;
+obj3.intialise("kanni",19,5555);
+obj3.display();
 
+// obj1.name="sumit mahant ";
+// obj1.age=20;
+// form obj2;
+// obj2.name="Aman mahant  ";
+// obj2.age=23;
 
-
-
-
-
+// cout<<obj1.name<<""<<obj1.age<<endl<<obj1.RollNumber;
+// cout<<obj2.name<<""<<obj2.age<<endl;
+}
 
 
